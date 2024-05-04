@@ -1,7 +1,6 @@
 # go-kafka-cli
 
-
-## Producer
+## Producer
 
 ```golang
 package producer
@@ -19,7 +18,7 @@ type Producer struct {
 }
 ```
 
-## Consumer
+## Consumer
 
 ```golang
 package consumer
