@@ -1,7 +1,0 @@
-port: 80
-rabbitmq:
-  host: "localhost"
-  port: 5672
-  username: "username"
-  password: ${USER_PASSWORD:pass}
-  vhost: ${INTEGRATION}
