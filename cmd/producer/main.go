@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"go-kafka-cli/internal/producer"
-	segmentio "go-kafka-cli/internal/producer/kafka"
+	"go-kafka-cli/pkg/producer"
+	segmentio "go-kafka-cli/pkg/producer/kafka"
 	"time"
 
 	"github.com/google/uuid"

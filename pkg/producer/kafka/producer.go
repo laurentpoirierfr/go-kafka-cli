@@ -2,7 +2,7 @@ package kafka
 
 import (
 	"context"
-	"go-kafka-cli/internal/producer"
+	"go-kafka-cli/pkg/producer"
 
 	"github.com/segmentio/kafka-go"
 )

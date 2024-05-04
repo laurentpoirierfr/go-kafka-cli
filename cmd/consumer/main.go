@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"go-kafka-cli/internal/consumer"
-	segmentio "go-kafka-cli/internal/consumer/kafka"
+	"go-kafka-cli/pkg/consumer"
+	segmentio "go-kafka-cli/pkg/consumer/kafka"
 )
 
 func main() {

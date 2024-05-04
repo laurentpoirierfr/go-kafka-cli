@@ -3,7 +3,7 @@ package kafka
 import (
 	"context"
 	"fmt"
-	"go-kafka-cli/internal/consumer"
+	"go-kafka-cli/pkg/consumer"
 	"os"
 	"os/signal"
 
